@@ -1,0 +1,163 @@
+2012-11-20 14:22:43  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-20 14:22:58  INFO (?:init:?) - Timeout is set to: 10
+2012-11-20 14:22:58  INFO (?:init:?) - Maximize browser set to: true
+2012-11-20 14:22:58  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-20 14:22:58  INFO (?:init:?) - Capture selenium commands: true
+2012-11-20 14:22:58  INFO (?:init:?) - jsLibrary: prototype
+2012-11-20 14:23:29  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.home.HomeTests_test2
+2012-11-20 14:23:29  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....test2
+2012-11-20 14:23:29  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.home.HomeTests.test2() throws java.lang.Exception
+2012-11-20 14:23:29  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.home.HomeTests.test2() throws java.lang.Exception
+2012-11-20 14:23:29  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.home.HomeTests
+2012-11-20 14:23:29  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_or
+2012-11-20 14:23:29  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+
+2012-11-20 14:23:29  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.home.HomeTests_test2
+2012-11-20 14:23:29  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....test2
+2012-11-20 14:23:29  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.home.HomeTests.test2() throws java.lang.Exception
+2012-11-20 14:23:29  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.home.HomeTests.test2() throws java.lang.Exception
+2012-11-20 14:23:29  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.home.HomeTests
+2012-11-20 14:23:29  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_wa
+2012-11-20 14:23:29 ERROR (?:handleValidationResultPrinting:?) - VALIDATION -FAILED
+
+2012-11-20 14:23:29 DEBUG (?:createScreenshot:?) - Filename to save screenshot to: F:\AWB-Automation\workspace\awbautomation\screenshots\test213b1d05acdc.png|FirefoxDriver: firefox on XP (bbf92be3-8e26-45d3-816d-614ace59b837)
+2012-11-20 14:23:29 DEBUG (?:createSeleniumCommandLog:?) - Is selenium command list empty: false
+2012-11-20 14:23:29 DEBUG (?:createSeleniumCommandLog:?) - Writing the selenium command log with : 10 commands
+2012-11-20 14:23:29 DEBUG (?:appendToReport:?) - useLocalFilePathForReporting: false
+2012-11-20 14:23:29 DEBUG (?:appendToReport:?) - screenshotFileURL: ../ws/depot/main/cmc/feature/automation-v1/automation/screenshots/test213b1d05acdc.png
+2012-11-20 14:45:27  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-20 14:45:42  INFO (?:init:?) - Timeout is set to: 10
+2012-11-20 14:45:42  INFO (?:init:?) - Maximize browser set to: true
+2012-11-20 14:45:42  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-20 14:45:42  INFO (?:init:?) - Capture selenium commands: true
+2012-11-20 14:45:42  INFO (?:init:?) - jsLibrary: prototype
+2012-11-20 14:45:48 DEBUG (?:createScreenshot:?) - Filename to save screenshot to: F:\AWB-Automation\workspace\awbautomation\screenshots\test213b1d1a1ccf.png|FirefoxDriver: firefox on XP (850faf82-cd2b-45d9-9023-2649e4f38667)
+2012-11-20 14:45:48 DEBUG (?:createSeleniumCommandLog:?) - Is selenium command list empty: false
+2012-11-20 14:45:48 DEBUG (?:createSeleniumCommandLog:?) - Writing the selenium command log with : 4 commands
+2012-11-20 14:45:48 DEBUG (?:appendToReport:?) - useLocalFilePathForReporting: false
+2012-11-20 14:45:48 DEBUG (?:appendToReport:?) - screenshotFileURL: ../ws/depot/main/cmc/feature/automation-v1/automation/screenshots/test213b1d1a1ccf.png
+2012-11-20 16:30:13  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-20 16:30:27  INFO (?:init:?) - Timeout is set to: 10
+2012-11-20 16:30:27  INFO (?:init:?) - Maximize browser set to: true
+2012-11-20 16:30:27  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-20 16:30:27  INFO (?:init:?) - Capture selenium commands: true
+2012-11-20 16:30:27  INFO (?:init:?) - jsLibrary: prototype
+2012-11-20 16:31:49 DEBUG (?:createScreenshot:?) - Filename to save screenshot to: F:\AWB-Automation\workspace\awbautomation\screenshots\testAllNavigations13b1d7b2b09.png|FirefoxDriver: firefox on XP (3c7bb8bf-b13c-4d2b-99b5-2c5f9a383321)
+2012-11-20 16:31:49 DEBUG (?:createSeleniumCommandLog:?) - Is selenium command list empty: false
+2012-11-20 16:31:49 DEBUG (?:createSeleniumCommandLog:?) - Writing the selenium command log with : 15 commands
+2012-11-20 16:31:49 DEBUG (?:appendToReport:?) - useLocalFilePathForReporting: false
+2012-11-20 16:31:49 DEBUG (?:appendToReport:?) - screenshotFileURL: ../ws/depot/main/cmc/feature/automation-v1/automation/screenshots/testAllNavigations13b1d7b2b09.png
+2012-11-20 16:31:50  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-20 16:32:04  INFO (?:init:?) - Timeout is set to: 10
+2012-11-20 16:32:04  INFO (?:init:?) - Maximize browser set to: true
+2012-11-20 16:32:04  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-20 16:32:04  INFO (?:init:?) - Capture selenium commands: true
+2012-11-20 16:32:04  INFO (?:init:?) - jsLibrary: prototype
+2012-11-20 16:32:30  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.home.HomeTests_testWCBenefitsByStateMap
+2012-11-20 16:32:30  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-20 16:32:30  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.home.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-20 16:32:30  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.home.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-20 16:32:30  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.home.HomeTests
+2012-11-20 16:32:30  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_or
+2012-11-20 16:32:30  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click OR link
+2012-11-20 16:32:30  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click OR link
+
+2012-11-20 16:32:30  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.home.HomeTests_testWCBenefitsByStateMap
+2012-11-20 16:32:30  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-20 16:32:30  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.home.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-20 16:32:30  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.home.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-20 16:32:30  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.home.HomeTests
+2012-11-20 16:32:30  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_wa
+2012-11-20 16:32:30  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click WA link
+2012-11-20 16:32:30 ERROR (?:handleValidationResultPrinting:?) - VALIDATION -FAILED
+Click WA link
+
+2012-11-20 16:32:30 DEBUG (?:createScreenshot:?) - Filename to save screenshot to: F:\AWB-Automation\workspace\awbautomation\screenshots\testWCBenefitsByStateMap13b1d7bcc0b.png|FirefoxDriver: firefox on XP (e5622a12-a7e0-40b6-827b-2308aa8184b9)
+2012-11-20 16:32:30 DEBUG (?:createSeleniumCommandLog:?) - Is selenium command list empty: false
+2012-11-20 16:32:30 DEBUG (?:createSeleniumCommandLog:?) - Writing the selenium command log with : 11 commands
+2012-11-20 16:32:30 DEBUG (?:appendToReport:?) - useLocalFilePathForReporting: false
+2012-11-20 16:32:30 DEBUG (?:appendToReport:?) - screenshotFileURL: ../ws/depot/main/cmc/feature/automation-v1/automation/screenshots/testWCBenefitsByStateMap13b1d7bcc0b.png
+2012-11-20 16:37:55  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-20 16:38:09  INFO (?:init:?) - Timeout is set to: 10
+2012-11-20 16:38:09  INFO (?:init:?) - Maximize browser set to: true
+2012-11-20 16:38:09  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-20 16:38:09  INFO (?:init:?) - Capture selenium commands: true
+2012-11-20 16:38:09  INFO (?:init:?) - jsLibrary: prototype
+2012-11-20 16:39:47 DEBUG (?:createScreenshot:?) - Filename to save screenshot to: F:\AWB-Automation\workspace\awbautomation\screenshots\testAllNavigations13b1d82761c.png|FirefoxDriver: firefox on XP (6a210c8f-b557-41f8-aa18-5c8c891acd8e)
+2012-11-20 16:39:47 DEBUG (?:createSeleniumCommandLog:?) - Is selenium command list empty: false
+2012-11-20 16:39:47 DEBUG (?:createSeleniumCommandLog:?) - Writing the selenium command log with : 15 commands
+2012-11-20 16:39:47 DEBUG (?:appendToReport:?) - useLocalFilePathForReporting: false
+2012-11-20 16:39:47 DEBUG (?:appendToReport:?) - screenshotFileURL: ../ws/depot/main/cmc/feature/automation-v1/automation/screenshots/testAllNavigations13b1d82761c.png
+2012-11-20 16:45:39  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-20 16:45:54  INFO (?:init:?) - Timeout is set to: 10
+2012-11-20 16:45:54  INFO (?:init:?) - Maximize browser set to: true
+2012-11-20 16:45:54  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-20 16:45:54  INFO (?:init:?) - Capture selenium commands: true
+2012-11-20 16:45:54  INFO (?:init:?) - jsLibrary: prototype
+2012-11-20 16:46:57  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.home.HomeTests_testAllNavigations
+2012-11-20 16:46:57  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAllNavigations
+2012-11-20 16:46:57  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.home.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-20 16:46:57  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.home.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.home.HomeTests
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='awbTabContainer']/ul/li[2]/a/span
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click PortfolioOverview Tab
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click PortfolioOverview Tab
+
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.home.HomeTests_testAllNavigations
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAllNavigations
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.home.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.home.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.home.HomeTests
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='awbTabContainer']/ul/li[4]/a/span
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Clicking AdhocAnalysis Tab
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Clicking AdhocAnalysis Tab
+
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.home.HomeTests_testAllNavigations
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAllNavigations
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.home.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.home.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.home.HomeTests
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='awbTabContainer']/ul/li[3]/a/span
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Clicking Insights Tab
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Clicking Insights Tab
+
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.home.HomeTests_testAllNavigations
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAllNavigations
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.home.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.home.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.home.HomeTests
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='awbTabContainer']/ul/li[5]/a/span
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Clicking Reporting Tab
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Clicking Reporting Tab
+
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.home.HomeTests_testAllNavigations
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAllNavigations
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.home.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.home.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.home.HomeTests
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='awbTabContainer']/ul/li[6]/a/span
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Clicking Search Tab
+2012-11-20 16:46:58  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Clicking Search Tab
+
+2012-11-20 16:46:58 DEBUG (?:createScreenshot:?) - Filename to save screenshot to: F:\AWB-Automation\workspace\awbautomation\screenshots\testAllNavigations13b1d8909b1.png|FirefoxDriver: firefox on XP (8ea3fee6-3a97-414e-beb2-16973d078716)
+2012-11-20 16:46:58 DEBUG (?:createSeleniumCommandLog:?) - Is selenium command list empty: false
+2012-11-20 16:46:58 DEBUG (?:createSeleniumCommandLog:?) - Writing the selenium command log with : 14 commands
+2012-11-20 16:46:58 DEBUG (?:appendToReport:?) - useLocalFilePathForReporting: false
+2012-11-20 16:46:58 DEBUG (?:appendToReport:?) - screenshotFileURL: ../ws/depot/main/cmc/feature/automation-v1/automation/screenshots/testAllNavigations13b1d8909b1.png
+2012-11-20 16:59:42  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-20 16:59:52  INFO (?:init:?) - Timeout is set to: 10
+2012-11-20 16:59:52  INFO (?:init:?) - Maximize browser set to: true
+2012-11-20 16:59:52  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-20 16:59:52  INFO (?:init:?) - Capture selenium commands: true
+2012-11-20 16:59:52  INFO (?:init:?) - jsLibrary: prototype
+2012-11-20 17:00:07 DEBUG (?:createScreenshot:?) - Filename to save screenshot to: F:\AWB-Automation\workspace\awbautomation\screenshots\testAllNavigations13b1d9515e5.png|FirefoxDriver: firefox on XP (0e0b8b8f-8785-43f4-a4a2-1e4ebed9d3db)
+2012-11-20 17:00:07 DEBUG (?:createSeleniumCommandLog:?) - Is selenium command list empty: false
+2012-11-20 17:00:07 DEBUG (?:createSeleniumCommandLog:?) - Writing the selenium command log with : 4 commands
+2012-11-20 17:00:07 DEBUG (?:appendToReport:?) - useLocalFilePathForReporting: false
+2012-11-20 17:00:08 DEBUG (?:appendToReport:?) - screenshotFileURL: ../ws/depot/main/cmc/feature/automation-v1/automation/screenshots/testAllNavigations13b1d9515e5.png

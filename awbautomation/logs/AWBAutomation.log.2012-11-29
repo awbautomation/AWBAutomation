@@ -1,0 +1,908 @@
+2012-11-29 13:48:56  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-29 13:49:04  INFO (?:init:?) - Timeout is set to: 10
+2012-11-29 13:49:04  INFO (?:init:?) - Maximize browser set to: true
+2012-11-29 13:49:04  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-29 13:49:04  INFO (?:init:?) - Capture selenium commands: true
+2012-11-29 13:49:04  INFO (?:init:?) - jsLibrary: prototype
+2012-11-29 13:49:07 DEBUG (?:onTestFailure:?) - Failed test case screenshot file location: file:///E:\AWB-Automation\workspace\awbautomation\screenshots\testWCBenefitsByStateMap on instance null(com.awb.test.tests.HomeTests).jpg
+2012-11-29 15:42:40  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 23
+2012-11-29 15:42:53  INFO (?:init:?) - Timeout is set to: 10
+2012-11-29 15:42:53  INFO (?:init:?) - Maximize browser set to: true
+2012-11-29 15:42:53  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-29 15:42:53  INFO (?:init:?) - Capture selenium commands: true
+2012-11-29 15:42:53  INFO (?:init:?) - jsLibrary: prototype
+2012-11-29 15:49:32 DEBUG (?:onTestFailure:?) - Failed test case screenshot file location: file:///E:\AWB-Automation\workspace\awbautomation\screenshots\testWCBenefitsByStateMap on instance null(com.awb.test.tests.HomeTests).jpg
+2012-11-29 16:00:06  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 23
+2012-11-29 16:00:14  INFO (?:init:?) - Timeout is set to: 10
+2012-11-29 16:00:14  INFO (?:init:?) - Maximize browser set to: true
+2012-11-29 16:00:14  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-29 16:00:14  INFO (?:init:?) - Capture selenium commands: true
+2012-11-29 16:00:14  INFO (?:init:?) - jsLibrary: prototype
+2012-11-29 16:07:01  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:01  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:01  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:01  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_or
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click OR link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click OR link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_wa
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click WA link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click WA link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ca
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click CA link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click CA link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_mt
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click MT link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click MT link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_id
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click ID link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click ID link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_nv
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click NV link
+2012-11-29 16:07:02 ERROR (?:handleValidationResultPrinting:?) - VALIDATION -FAILED
+Click NV link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_az
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click AZ link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click AZ link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_wy
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click WY link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click WY link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ut
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click UT link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click UT link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_nm
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click NM link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click NM link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_co
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click CO link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click CO link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_tx
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click TX link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click TX link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ok
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click OK link
+2012-11-29 16:07:02 ERROR (?:handleValidationResultPrinting:?) - VALIDATION -FAILED
+Click OK link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ks
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click KS link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click KS link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ne
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click NE link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click NE link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_sd
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click SD link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click SD link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_nd
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click ND link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click ND link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_mn
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click MN link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click MN link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ia
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click IA link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click IA link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_mo
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click MO link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click MO link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ar
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click AR link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click AR link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_la
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click LA link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click LA link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ms
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click MS link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click MS link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_al
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click AL link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click AL link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_tn
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click TN link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click TN link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_in
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click IN link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click IN link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_mi
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click MI link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click MI link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_oh
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click OH link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click OH link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_wv
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click WV link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click WV link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_va
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click VA link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click VA link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_pa
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click PA link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click PA link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ny
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click NY link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click NY link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_nh
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click NH link
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click NH link
+
+2012-11-29 16:07:02  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_me
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click ME link
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click ME link
+
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ma
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click MA link
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click MA link
+
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ct
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click CT link
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click CT link
+
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_nj
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click NJ link
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click NJ link
+
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_md
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click MD link
+2012-11-29 16:07:03 ERROR (?:handleValidationResultPrinting:?) - VALIDATION -FAILED
+Click MD link
+
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_nc
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click NC link
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click NC link
+
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_sc
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click SC link
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click SC link
+
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ga
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click GA link
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click GA link
+
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_fl
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click FL link
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click FL link
+
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_hi
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click HI link
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click HI link
+
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ak
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click AK link
+2012-11-29 16:07:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click AK link
+
+2012-11-29 16:07:03 DEBUG (?:onTestFailure:?) - Failed test case screenshot file location: file:///E:\AWB-Automation\workspace\awbautomation\screenshots\testWCBenefitsByStateMap on instance null(com.awb.test.tests.HomeTests).jpg
+2012-11-29 16:18:34  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 23
+2012-11-29 16:18:41  INFO (?:init:?) - Timeout is set to: 10
+2012-11-29 16:18:41  INFO (?:init:?) - Maximize browser set to: true
+2012-11-29 16:18:41  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-29 16:18:41  INFO (?:init:?) - Capture selenium commands: true
+2012-11-29 16:18:41  INFO (?:init:?) - jsLibrary: prototype
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_or
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click OR link
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click OR link
+
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_wa
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click WA link
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click WA link
+
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ca
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click CA link
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click CA link
+
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_mt
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click MT link
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click MT link
+
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_id
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click ID link
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click ID link
+
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_nv
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click NV link
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click NV link
+
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_az
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click AZ link
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click AZ link
+
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_wy
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click WY link
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click WY link
+
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ut
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click UT link
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click UT link
+
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:50  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_nm
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click NM link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click NM link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_co
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click CO link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click CO link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_tx
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click TX link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click TX link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ok
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click OK link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click OK link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ks
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click KS link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click KS link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ne
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click NE link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click NE link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_sd
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click SD link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click SD link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_nd
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click ND link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click ND link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_mn
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click MN link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click MN link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ia
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click IA link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click IA link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_mo
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click MO link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click MO link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ar
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click AR link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click AR link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_la
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click LA link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click LA link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ms
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click MS link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click MS link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_al
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click AL link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click AL link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_tn
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click TN link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click TN link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_in
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click IN link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click IN link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_mi
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click MI link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click MI link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_oh
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click OH link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click OH link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_wv
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click WV link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click WV link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_va
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click VA link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click VA link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_pa
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click PA link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click PA link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ny
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click NY link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click NY link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_nh
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click NH link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click NH link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_me
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click ME link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click ME link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ma
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click MA link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click MA link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ct
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click CT link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click CT link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_nj
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click NJ link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click NJ link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_md
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click MD link
+2012-11-29 16:22:51 ERROR (?:handleValidationResultPrinting:?) - VALIDATION -FAILED
+Click MD link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_nc
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click NC link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click NC link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_sc
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click SC link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click SC link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ga
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click GA link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click GA link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_fl
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click FL link
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click FL link
+
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_hi
+2012-11-29 16:22:51  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click HI link
+2012-11-29 16:22:52  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click HI link
+
+2012-11-29 16:22:52  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-29 16:22:52  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-29 16:22:52  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:52  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-29 16:22:52  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-29 16:22:52  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_ak
+2012-11-29 16:22:52  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click AK link
+2012-11-29 16:22:52  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click AK link
+
+2012-11-29 16:22:52 DEBUG (?:onTestFailure:?) - Failed test case screenshot file location: file:///E:\AWB-Automation\workspace\awbautomation\screenshots\testWCBenefitsByStateMap on instance null(com.awb.test.tests.HomeTests).jpg

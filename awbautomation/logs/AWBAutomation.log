@@ -1,0 +1,64 @@
+2012-11-30 10:18:49  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 23
+2012-11-30 10:19:00  INFO (?:init:?) - Timeout is set to: 10
+2012-11-30 10:19:00  INFO (?:init:?) - Maximize browser set to: true
+2012-11-30 10:19:00  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-30 10:19:00  INFO (?:init:?) - Capture selenium commands: true
+2012-11-30 10:19:00  INFO (?:init:?) - jsLibrary: prototype
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testAllNavigations
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAllNavigations
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='awbTabContainer']/ul/li[2]/a/span
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click PortfolioOverview Tab
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click PortfolioOverview Tab
+
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testAllNavigations
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAllNavigations
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='awbTabContainer']/ul/li[4]/a/span
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Clicking AdhocAnalysis Tab
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Clicking AdhocAnalysis Tab
+
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testAllNavigations
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAllNavigations
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='awbTabContainer']/ul/li[3]/a/span
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Clicking Insights Tab
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Clicking Insights Tab
+
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testAllNavigations
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAllNavigations
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='awbTabContainer']/ul/li[5]/a/span
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Clicking Reporting Tab
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Clicking Reporting Tab
+
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testAllNavigations
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAllNavigations
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='awbTabContainer']/ul/li[6]/a/span
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Clicking Search Tab
+2012-11-30 10:20:40  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Clicking Search Tab
+
+2012-11-30 10:20:40 DEBUG (?:onTestSuccess:?) - Success test case screenshot file location: file:///E:\AWB-Automation\workspace\awbautomation\screenshots\testAllNavigations on instance null(com.awb.test.tests.HomeTests).jpg
+2012-11-30 14:43:05  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 23
+2012-11-30 14:43:17  INFO (?:init:?) - Timeout is set to: 10
+2012-11-30 14:43:17  INFO (?:init:?) - Maximize browser set to: true
+2012-11-30 14:43:17  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-30 14:43:17  INFO (?:init:?) - Capture selenium commands: true
+2012-11-30 14:43:17  INFO (?:init:?) - jsLibrary: prototype
+2012-11-30 14:43:23 DEBUG (?:onTestFailure:?) - Failed test case screenshot file location: file:///E:\AWBAutomation\workspace\awbautomation\screenshots\testAllNavigations on instance null(com.awb.test.tests.HomeTests).jpg

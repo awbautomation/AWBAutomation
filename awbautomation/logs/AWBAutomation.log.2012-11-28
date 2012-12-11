@@ -1,0 +1,386 @@
+2012-11-28 10:36:35  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-28 10:36:47  INFO (?:init:?) - Timeout is set to: 10
+2012-11-28 10:36:47  INFO (?:init:?) - Maximize browser set to: true
+2012-11-28 10:36:47  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-28 10:36:47  INFO (?:init:?) - Capture selenium commands: true
+2012-11-28 10:36:47  INFO (?:init:?) - jsLibrary: prototype
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.AdhocAnalysisTests_testAdhocAnalysisPage
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAdhocAnalysisPage
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.AdhocAnalysisTests.testAdhocAnalysisPage() throws java.lang.Exception
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.AdhocAnalysisTests.testAdhocAnalysisPage() throws java.lang.Exception
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.AdhocAnalysisTests
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='WebPartWPQ2']/table[2]/thead/tr/th
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify Type Text
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify Type Text
+
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.AdhocAnalysisTests_testAdhocAnalysisPage
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAdhocAnalysisPage
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.AdhocAnalysisTests.testAdhocAnalysisPage() throws java.lang.Exception
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.AdhocAnalysisTests.testAdhocAnalysisPage() throws java.lang.Exception
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.AdhocAnalysisTests
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='WebPartWPQ2']/table[2]/thead/tr/th[2]
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify Name Text
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify Name Text
+
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.AdhocAnalysisTests_testAdhocAnalysisPage
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAdhocAnalysisPage
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.AdhocAnalysisTests.testAdhocAnalysisPage() throws java.lang.Exception
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.AdhocAnalysisTests.testAdhocAnalysisPage() throws java.lang.Exception
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.AdhocAnalysisTests
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='WebPartWPQ2']/table[2]/thead/tr/th[3]
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify Description Text
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify Description Text
+
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.AdhocAnalysisTests_testAdhocAnalysisPage
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAdhocAnalysisPage
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.AdhocAnalysisTests.testAdhocAnalysisPage() throws java.lang.Exception
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.AdhocAnalysisTests.testAdhocAnalysisPage() throws java.lang.Exception
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.AdhocAnalysisTests
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='WebPartWPQ2']/table[2]/thead/tr/th[4]
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify Modified Text
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify Modified Text
+
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.AdhocAnalysisTests_testAdhocAnalysisPage
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAdhocAnalysisPage
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.AdhocAnalysisTests.testAdhocAnalysisPage() throws java.lang.Exception
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.AdhocAnalysisTests.testAdhocAnalysisPage() throws java.lang.Exception
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.AdhocAnalysisTests
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table[2]/thead/tr/th[5]
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify Modified By Text
+2012-11-28 10:37:23  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify Modified By Text
+
+2012-11-28 10:37:23 DEBUG (?:onTestSuccess:?) - Success test case screenshot file location: file:///E:\AWB-Automation\workspace\awbautomation\screenshots\testAdhocAnalysisPage on instance null(com.awb.test.tests.AdhocAnalysisTests).jpg
+2012-11-28 10:37:24  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-28 10:37:30  INFO (?:init:?) - Timeout is set to: 10
+2012-11-28 10:37:30  INFO (?:init:?) - Maximize browser set to: true
+2012-11-28 10:37:30  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-28 10:37:30  INFO (?:init:?) - Capture selenium commands: true
+2012-11-28 10:37:30  INFO (?:init:?) - jsLibrary: prototype
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testAllNavigations
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAllNavigations
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='awbTabContainer']/ul/li[2]/a/span
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click PortfolioOverview Tab
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click PortfolioOverview Tab
+
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testAllNavigations
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAllNavigations
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='awbTabContainer']/ul/li[4]/a/span
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Clicking AdhocAnalysis Tab
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Clicking AdhocAnalysis Tab
+
+2012-11-28 10:38:44  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testAllNavigations
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAllNavigations
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='awbTabContainer']/ul/li[3]/a/span
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Clicking Insights Tab
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Clicking Insights Tab
+
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testAllNavigations
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAllNavigations
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='awbTabContainer']/ul/li[5]/a/span
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Clicking Reporting Tab
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Clicking Reporting Tab
+
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testAllNavigations
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testAllNavigations
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testAllNavigations() throws java.lang.Exception
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://div[@id='awbTabContainer']/ul/li[6]/a/span
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Clicking Search Tab
+2012-11-28 10:38:45  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Clicking Search Tab
+
+2012-11-28 10:38:45 DEBUG (?:onTestSuccess:?) - Success test case screenshot file location: file:///E:\AWB-Automation\workspace\awbautomation\screenshots\testAllNavigations on instance null(com.awb.test.tests.HomeTests).jpg
+2012-11-28 10:38:45  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-28 10:38:51  INFO (?:init:?) - Timeout is set to: 10
+2012-11-28 10:38:51  INFO (?:init:?) - Maximize browser set to: true
+2012-11-28 10:38:51  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-28 10:38:51  INFO (?:init:?) - Capture selenium commands: true
+2012-11-28 10:38:51  INFO (?:init:?) - jsLibrary: prototype
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_or
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click OR link
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click OR link
+
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.HomeTests_testWCBenefitsByStateMap
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testWCBenefitsByStateMap
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.HomeTests.testWCBenefitsByStateMap() throws java.lang.Exception
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.HomeTests
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID:jvectormap1_wa
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Click WA link
+2012-11-28 10:39:28  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Click WA link
+
+2012-11-28 10:39:28 DEBUG (?:onTestSuccess:?) - Success test case screenshot file location: file:///E:\AWB-Automation\workspace\awbautomation\screenshots\testWCBenefitsByStateMap on instance null(com.awb.test.tests.HomeTests).jpg
+2012-11-28 10:39:29  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-28 10:39:34  INFO (?:init:?) - Timeout is set to: 10
+2012-11-28 10:39:34  INFO (?:init:?) - Maximize browser set to: true
+2012-11-28 10:39:34  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-28 10:39:34  INFO (?:init:?) - Capture selenium commands: true
+2012-11-28 10:39:34  INFO (?:init:?) - jsLibrary: prototype
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.InsightsTests_testInsightsPage
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testInsightsPage
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.InsightsTests.testInsightsPage() throws java.lang.Exception
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.InsightsTests.testInsightsPage() throws java.lang.Exception
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.InsightsTests
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr/td[7]/table/tbody/tr[2]/td/div
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify CurrentVsPriorPeriod Div
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify CurrentVsPriorPeriod Div
+
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.InsightsTests_testInsightsPage
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testInsightsPage
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.InsightsTests.testInsightsPage() throws java.lang.Exception
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.InsightsTests.testInsightsPage() throws java.lang.Exception
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.InsightsTests
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr[2]/td/table/tbody/tr/td[9]/table/tbody/tr[2]/td/div
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify ClaimCountByStateGraph Img
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify ClaimCountByStateGraph Img
+
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.InsightsTests_testInsightsPage
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testInsightsPage
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.InsightsTests.testInsightsPage() throws java.lang.Exception
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.InsightsTests.testInsightsPage() throws java.lang.Exception
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.InsightsTests
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr[3]/td/table/tbody/tr/td/table/tbody/tr[2]/td/div
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify AverageClaimLagDays Div
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify AverageClaimLagDays Div
+
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.InsightsTests_testInsightsPage
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testInsightsPage
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.InsightsTests.testInsightsPage() throws java.lang.Exception
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.InsightsTests.testInsightsPage() throws java.lang.Exception
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.InsightsTests
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr[4]/td/table/tbody/tr/td/table/tbody/tr[2]/td/div
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify TopStates Div
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify TopStates Div
+
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.InsightsTests_testInsightsPage
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testInsightsPage
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.InsightsTests.testInsightsPage() throws java.lang.Exception
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.InsightsTests.testInsightsPage() throws java.lang.Exception
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.InsightsTests
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr[4]/td/table/tbody/tr/td[3]/table/tbody/tr[2]/td/div
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify TopPartsofBody Div
+2012-11-28 10:40:07  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify TopPartsofBody Div
+
+2012-11-28 10:40:07 DEBUG (?:onTestSuccess:?) - Success test case screenshot file location: file:///E:\AWB-Automation\workspace\awbautomation\screenshots\testInsightsPage on instance null(com.awb.test.tests.InsightsTests).jpg
+2012-11-28 10:40:07  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-28 10:40:13  INFO (?:init:?) - Timeout is set to: 10
+2012-11-28 10:40:13  INFO (?:init:?) - Maximize browser set to: true
+2012-11-28 10:40:13  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-28 10:40:13  INFO (?:init:?) - Capture selenium commands: true
+2012-11-28 10:40:13  INFO (?:init:?) - jsLibrary: prototype
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.PortfolioOverviewTests_testPortfolioOverviewPage
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testPortfolioOverviewPage
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.PortfolioOverviewTests.testPortfolioOverviewPage() throws java.lang.Exception
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.PortfolioOverviewTests.testPortfolioOverviewPage() throws java.lang.Exception
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.PortfolioOverviewTests
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr[2]/td/table/tbody/tr/td/table/tbody/tr/td[5]/table/tbody/tr[2]/td/div
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify Claim Synopsis Report link
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify Claim Synopsis Report link
+
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.PortfolioOverviewTests_testPortfolioOverviewPage
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testPortfolioOverviewPage
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.PortfolioOverviewTests.testPortfolioOverviewPage() throws java.lang.Exception
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.PortfolioOverviewTests.testPortfolioOverviewPage() throws java.lang.Exception
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.PortfolioOverviewTests
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr/td[3]/table/tbody/tr/td/table/tbody/tr[2]/td/div
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify Claim Synopsis by State Link
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify Claim Synopsis by State Link
+
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.PortfolioOverviewTests_testPortfolioOverviewPage
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testPortfolioOverviewPage
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.PortfolioOverviewTests.testPortfolioOverviewPage() throws java.lang.Exception
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.PortfolioOverviewTests.testPortfolioOverviewPage() throws java.lang.Exception
+2012-11-28 10:40:38  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.PortfolioOverviewTests
+2012-11-28 10:40:39  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://*[@id='Grid1']
+2012-11-28 10:40:39  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify ClaimWatchList text
+2012-11-28 10:40:39  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify ClaimWatchList text
+
+2012-11-28 10:40:39  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.PortfolioOverviewTests_testPortfolioOverviewPage
+2012-11-28 10:40:39  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testPortfolioOverviewPage
+2012-11-28 10:40:39  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.PortfolioOverviewTests.testPortfolioOverviewPage() throws java.lang.Exception
+2012-11-28 10:40:39  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.PortfolioOverviewTests.testPortfolioOverviewPage() throws java.lang.Exception
+2012-11-28 10:40:39  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.PortfolioOverviewTests
+2012-11-28 10:40:39  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr/td[3]/table/tbody/tr[2]/td/div
+2012-11-28 10:40:39  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify Total Incurred by Cost Breakdown
+2012-11-28 10:40:39  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify Total Incurred by Cost Breakdown
+
+2012-11-28 10:40:39 DEBUG (?:onTestSuccess:?) - Success test case screenshot file location: file:///E:\AWB-Automation\workspace\awbautomation\screenshots\testPortfolioOverviewPage on instance null(com.awb.test.tests.PortfolioOverviewTests).jpg
+2012-11-28 10:40:39  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-28 10:40:44  INFO (?:init:?) - Timeout is set to: 10
+2012-11-28 10:40:44  INFO (?:init:?) - Maximize browser set to: true
+2012-11-28 10:40:44  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-28 10:40:44  INFO (?:init:?) - Capture selenium commands: true
+2012-11-28 10:40:44  INFO (?:init:?) - jsLibrary: prototype
+2012-11-28 10:41:25 DEBUG (?:onTestFailure:?) - Failed test case screenshot file location: file:///E:\AWB-Automation\workspace\awbautomation\screenshots\testPortfolioWCPage on instance null(com.awb.test.tests.PortfolioWCTests).jpg
+2012-11-28 10:41:26  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-28 10:41:31  INFO (?:init:?) - Timeout is set to: 10
+2012-11-28 10:41:31  INFO (?:init:?) - Maximize browser set to: true
+2012-11-28 10:41:31  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-28 10:41:31  INFO (?:init:?) - Capture selenium commands: true
+2012-11-28 10:41:31  INFO (?:init:?) - jsLibrary: prototype
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.ReportingTests_testReportingPage
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testReportingPage
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.ReportingTests.testReportingPage() throws java.lang.Exception
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.ReportingTests.testReportingPage() throws java.lang.Exception
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.ReportingTests
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr/td/table/tbody/tr[2]/td/div
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify FinancialComparison Div
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify FinancialComparison Div
+
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.ReportingTests_testReportingPage
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testReportingPage
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.ReportingTests.testReportingPage() throws java.lang.Exception
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.ReportingTests.testReportingPage() throws java.lang.Exception
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.ReportingTests
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr[3]/td/table/tbody/tr[3]/td/table/tbody/tr[2]/td/div
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify ClaimCountbyState Div
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify ClaimCountbyState Div
+
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.ReportingTests_testReportingPage
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testReportingPage
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.ReportingTests.testReportingPage() throws java.lang.Exception
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.ReportingTests.testReportingPage() throws java.lang.Exception
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.ReportingTests
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[2]/td/div
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify LegalProviderReport Div
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify LegalProviderReport Div
+
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.ReportingTests_testReportingPage
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testReportingPage
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.ReportingTests.testReportingPage() throws java.lang.Exception
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.ReportingTests.testReportingPage() throws java.lang.Exception
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.ReportingTests
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr[4]/td/table/tbody/tr/td/table/tbody/tr[2]/td/div
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify WCScorecard Div
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify WCScorecard Div
+
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.ReportingTests_testReportingPage
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testReportingPage
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.ReportingTests.testReportingPage() throws java.lang.Exception
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.ReportingTests.testReportingPage() throws java.lang.Exception
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.ReportingTests
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr[2]/td/table/tbody/tr[3]/td/table/tbody/tr[2]/td/div
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify ClaimCountbyAccidentType Div
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify ClaimCountbyAccidentType Div
+
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.ReportingTests_testReportingPage
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testReportingPage
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.ReportingTests.testReportingPage() throws java.lang.Exception
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.ReportingTests.testReportingPage() throws java.lang.Exception
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.ReportingTests
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr[3]/td/table/tbody/tr/td/table/tbody/tr[2]/td/div
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify ClaimCountByBusinessUnit Div
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify ClaimCountByBusinessUnit Div
+
+2012-11-28 10:42:03  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.ReportingTests_testReportingPage
+2012-11-28 10:42:04  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testReportingPage
+2012-11-28 10:42:04  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.ReportingTests.testReportingPage() throws java.lang.Exception
+2012-11-28 10:42:04  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.ReportingTests.testReportingPage() throws java.lang.Exception
+2012-11-28 10:42:04  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.ReportingTests
+2012-11-28 10:42:04  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr[3]/td/table/tbody/tr[2]/td/table/tbody/tr[2]/td/div
+2012-11-28 10:42:04  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify ClaimCountbyPartofBody Div
+2012-11-28 10:42:04  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify ClaimCountbyPartofBody Div
+
+2012-11-28 10:42:04 DEBUG (?:onTestSuccess:?) - Success test case screenshot file location: file:///E:\AWB-Automation\workspace\awbautomation\screenshots\testReportingPage on instance null(com.awb.test.tests.ReportingTests).jpg
+2012-11-28 10:42:04  INFO (?:init:?) - Properties loaded at: ./conf/seleniumconfiguration.properties, size: 25
+2012-11-28 10:42:09  INFO (?:init:?) - Timeout is set to: 10
+2012-11-28 10:42:09  INFO (?:init:?) - Maximize browser set to: true
+2012-11-28 10:42:09  INFO (?:init:?) - Do screenshots on each page load: true
+2012-11-28 10:42:09  INFO (?:init:?) - Capture selenium commands: true
+2012-11-28 10:42:09  INFO (?:init:?) - jsLibrary: prototype
+2012-11-28 10:42:32  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.SearchTests_testSearchPage
+2012-11-28 10:42:32  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testSearchPage
+2012-11-28 10:42:32  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.SearchTests.testSearchPage() throws java.lang.Exception
+2012-11-28 10:42:32  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.SearchTests.testSearchPage() throws java.lang.Exception
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.SearchTests
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr/td/table/tbody/tr/td/div/div/div/div/div
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify Serach div
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify Serach div
+
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.SearchTests_testSearchPage
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testSearchPage
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.SearchTests.testSearchPage() throws java.lang.Exception
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.SearchTests.testSearchPage() throws java.lang.Exception
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.SearchTests
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr/td/table/tbody/tr/td/div/div/div/div/div[3]/div[2]/div[2]/div[2]
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify ClaimDetails div
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify ClaimDetails div
+
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.SearchTests_testSearchPage
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testSearchPage
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.SearchTests.testSearchPage() throws java.lang.Exception
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.SearchTests.testSearchPage() throws java.lang.Exception
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.SearchTests
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr/td/table/tbody/tr[3]/td[2]/table/tbody/tr/td/table/tbody/tr/td/div/div/div/div/div[3]/div[2]/div[3]/div
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify Financials div
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify Financials div
+
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.SearchTests_testSearchPage
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testSearchPage
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.SearchTests.testSearchPage() throws java.lang.Exception
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.SearchTests.testSearchPage() throws java.lang.Exception
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.SearchTests
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr/td/table/tbody/tr[3]/td[2]/table/tbody/tr/td/table/tbody/tr/td/div/div/div/div/div[3]/div[2]/div[4]/div
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify Vehicle div
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify Vehicle div
+
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - From ThreadLocal................. class com.awb.test.tests.SearchTests_testSearchPage
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - Current Test Method is ....testSearchPage
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - TestMethod is public void com.awb.test.tests.SearchTests.testSearchPage() throws java.lang.Exception
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - TestMethod Generic String is public void com.awb.test.tests.SearchTests.testSearchPage() throws java.lang.Exception
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - Current Class is ....com.awb.test.tests.SearchTests
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - :Validation Results for locator with ID://table/tbody/tr/td/table/tbody/tr[3]/td[2]/table/tbody/tr/td/table/tbody/tr/td/div/div/div/div[2]/div
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - :Validation Message:Verify SearchResults div
+2012-11-28 10:42:33  INFO (?:handleValidationResultPrinting:?) - VALIDATION -PASSED
+Verify SearchResults div
+
+2012-11-28 10:42:33 DEBUG (?:onTestSuccess:?) - Success test case screenshot file location: file:///E:\AWB-Automation\workspace\awbautomation\screenshots\testSearchPage on instance null(com.awb.test.tests.SearchTests).jpg

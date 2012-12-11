@@ -1,0 +1,114 @@
+<?xml version='1.0'?>
+<project name="AWB Automation" default="hometest" basedir=".">
+  
+  
+	<!--////////////////////////////////////////////////////-->
+	<!--// Identify properties                            //-->
+	<!--////////////////////////////////////////////////////-->
+	<property name="classes" value="classes"/>
+	<property name="dist" value="dist"/>
+	<property name="docs" value="docs"/>
+	<property name="api" value="api"/>
+	<property name="core" value="../../workspace/core"/>
+  	<property name="src" value="src"/>
+  	<property name="lib" value="lib"/>
+  	<property name="conf" value="conf"/>
+  	<property name="results" value="results"/>
+  	<property name="xslt" value="xslt"/>
+  	<property name="screenshots" value="screenshots"/>
+	<property name="performance" value="performance"/>
+	
+	
+    <!--////////////////////////////////////////////////////-->
+	<!--// Add testng task resource                       //-->
+	<!--////////////////////////////////////////////////////-->
+	<taskdef resource="testngtasks" classpath="${core}/${lib}/testng-6.0.1-nobsh-noguice.jar"/> 
+	<taskdef resource="testngxslttasks" classpath="${core}/${lib}/testng-xslt-plugin-1.1.jar"/>  
+	
+	<!--////////////////////////////////////////////////////-->
+  	<!--// Create necessary directories                   //-->
+  	<!--////////////////////////////////////////////////////-->
+  	<target name="mkdirs" depends="clean">
+    	<mkdir dir="${classes}"/>
+    	<mkdir dir="${dist}"/>
+    	<mkdir dir="${docs}"/>
+    	<mkdir dir="${docs}/${api}"/>
+    	<mkdir dir="${screenshots}"/>
+  		<mkdir dir="${performance}"/>
+  	</target>
+	
+  		<!--////////////////////////////////////////////////////-->
+  	<!--// Build the core framework                       //-->
+  	<!--////////////////////////////////////////////////////-->
+  	<target name="buildcore" depends="mkdirs">
+    	<ant antfile="build.xml" dir="${core}" />
+  	</target>
+  	
+  		<!--////////////////////////////////////////////////////-->
+  	<!--// Build the UI test code                     //-->
+  	<!--////////////////////////////////////////////////////-->
+  	<target name="compile" depends="buildcore">
+  	  	<copy todir="${classes}">
+  	 	  	<fileset dir="${conf}"/>
+  	  	</copy>
+      	<javac srcdir="${src}" destdir="${classes}" debug="true">
+        	<classpath>
+            	<fileset dir="${core}/${lib}">
+                  	<include name="**/*.jar"/>
+              	</fileset>
+              	<fileset dir="${core}/${dist}">
+                  	<include name="**/*.jar"/>
+              	</fileset>
+          	</classpath>
+      	</javac>
+  	</target>
+  	
+  		<!--////////////////////////////////////////////////////-->
+  	<!--// Create Java archive (jar) file of the CMC      //-->
+  	<!--// automated test code                            //-->
+  	<!--////////////////////////////////////////////////////-->  
+  	<target name="jar" depends="compile">
+    	<jar destfile="${dist}/testautomationwebui.jar" basedir="${classes}" />  
+  	</target>
+  	<!--////////////////////////////////////////////////////-->
+  	<!--// Run page test                                  //-->
+  	<!--////////////////////////////////////////////////////-->
+  	<target name="hometest" depends="jar">
+      	<testng outputdir="${results}/pagetest" groups="smoketest2" useDefaultListeners="true"                
+      			listener="org.uncommons.reportng.HTMLReporter,org.uncommons.reportng.JUnitXMLReporter,com.awb.test.core.testng.listener.TestNGListener">
+          	<classpath>
+              	<fileset dir="${core}/${lib}">
+                  	<include name="**/*.jar"/>              	  
+              	</fileset>
+              	<fileset dir="${classes}">          	                  
+          	  		<include name="**/*.properties"/>
+              	</fileset>
+              	<fileset dir="${core}/${dist}">
+                  	<include name="**/*.jar"/>
+              	</fileset>
+              	<fileset dir="dist">
+                  	<include name="**/*.jar"/>
+              	</fileset>
+	  		</classpath>
+	  		<classfileset dir="${classes}" includes="**/*.class" />
+          		<sysproperty key="org.uncommons.reportng.title" value="AWB Page Test"/>
+          		<sysproperty key="org.uncommons.reportng.escape-output" value="off"/>
+      	</testng>
+  	</target>
+  	
+  	<!--////////////////////////////////////////////////////-->
+  	<!--// Clean task                                     //-->
+  	<!--////////////////////////////////////////////////////-->
+  	<target name="clean" description="Clean all components">
+      	<echo message="Deleting classes" /> 
+      	<delete dir="${classes}" />
+      	<delete dir="${docs}/${api}" />
+      	<delete dir="${screenshots}" />
+  		<delete dir="${performance}" />
+  	</target>
+  	
+  	
+  	
+   </project>
+  	
+	
